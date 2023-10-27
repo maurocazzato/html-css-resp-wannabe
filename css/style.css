@@ -143,12 +143,11 @@ img {
  
  @media all and (max-width:480px){
 
-
 .row{
-    display: block;
- }
+display: block;
+}
 .col{
-    max-width: 100%;
+width: 100%;
 }
 
       
